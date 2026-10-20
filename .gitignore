@@ -1,0 +1,12 @@
+# Compiled programs
+pi_serial
+pi_parallel
+
+# Backup files
+*_yedek.c
+
+# Temporary files
+*.o
+documentation.md
+documentation.pdf
+AUTHORS.md
