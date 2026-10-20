@@ -15,9 +15,9 @@ A C project that approximates π using the Leibniz series with serial and parall
 
 The program approximates π using the Leibniz series:
 
-\[
+$$
 \pi = 4 \sum_{i=0}^{n-1} \frac{(-1)^i}{2i+1}
-\]
+$$
 
 The serial version calculates the sum sequentially, while the parallel version distributes the work among multiple threads.
 
